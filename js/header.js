@@ -89,7 +89,7 @@ document.writeln("        <li class=\'li4\'><a href=\'tel:0791-83869220\'><img s
 document.writeln("");
 document.writeln("            <p>一键拨打</p>");
 document.writeln("        </a></li>");
-document.writeln("        <li><a href=\'contact_us.html\'><img src=\'picture/map.png\'>");
+document.writeln("        <li><a href=\'about.html\'><img src=\'picture/map.png\'>");
 document.writeln("");
 document.writeln("            <p>服务网点</p>");
 document.writeln("        </a></li>");
