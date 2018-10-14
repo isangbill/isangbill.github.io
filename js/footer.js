@@ -4,7 +4,7 @@ document.writeln("                        <div class=\'span12\'>");
 document.writeln("                            <div class=\'container\'>");
 document.writeln("                                <div class=\'join_in_title \'>红谷商标事务所，累计服务<span>10万+</span>创业者</div>");
 document.writeln("                                <div class=\'join_in_text \'>从业以来，已为多家国内企业、个人提供过商标代理服务，同时，在加强业务水平方面参加行业领导机关的组织培训，与省内外各兄弟单位保持紧密的联系和广泛的业务合作交流，增广博闻，努力为客户提供更优越的服务。</div>");
-document.writeln("                                <a href=\'#\' class=\'all_button join_in_button \' target=\'_blank\'>咨询电话：0791-83869220</a>");
+document.writeln("                                <a href=\'tel:0791-83869220\' class=\'all_button join_in_button \'>咨询电话：0791-83869220</a>");
 document.writeln("                            </div>");
 document.writeln("                        </div>");
 document.writeln("                    </div>");
