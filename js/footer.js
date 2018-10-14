@@ -34,11 +34,12 @@ document.writeln("                                        <div class=\'footer_li
 document.writeln("                                            <div class=\'footer_cotact\'>");
 document.writeln("                                                <div class=\'footer_cotact_title text_align\'>服务项目</div>");
 document.writeln("                                                <ul>");
-document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'\'>注册公司</a></li>");
-document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'\'>商标注册</a></li>");
-document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'\'>公司变更</a></li>");
-document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'\'>公司注销</a></li>");
-document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'\'>常见问题</a></li>");
+document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'sbzc.html\'>商标注册</a></li>");
+document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'zlsq.html\'>专利信息咨询申请</a></li>");
+document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'bqdj.html\'>版权登记</a></li>");
+document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'gszc.html\'>公司注册</a></li>");
+document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'txmdj.html\'>条形码登记</a></li>");
+document.writeln("                                                    <li class=\'span6 list_span6\'><a href=\'about.html\'>关于我们</a></li>");
 document.writeln("                                                </ul>");
 document.writeln("                                            </div>");
 document.writeln("                                        </div>");

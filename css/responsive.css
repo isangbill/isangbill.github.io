@@ -313,7 +313,8 @@
 	width: 25%;
 }
 .technical_support_box_z_header .title {
-	font-size: 18px;
+	font-size: 24px;
+	font-weight: bold;
 }
 .technical_support_box_z_info_box {
 	margin: 20px 0;
